@@ -1,24 +1,7 @@
-# README
+Minimal bug reproduction example for https://github.com/Shopify/money/issues/374.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Steps to reproduce:
+- Clone the repo
+- `bundle install`
+- `rails s`
+- Navigate to http://localhost:3000/money
