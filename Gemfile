@@ -29,7 +29,7 @@ gem "jbuilder"
 # gem "shopify-money", "3.0.0"
 
 # Does not work on 3.0.1
-gem "shopify-money", "3.0.1"
+gem "shopify-money", "3.0.2"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ mswin mswin64 mingw x64_mingw jruby ]
